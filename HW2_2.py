@@ -1,0 +1,7 @@
+n = input("Number of schoolchildren")
+k = input("Number of apples")
+print(n, k)
+Res = int(k) // int(n)
+Res1 = int(k) % int(n)
+print(Res)
+print(Res1)
